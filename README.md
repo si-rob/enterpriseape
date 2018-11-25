@@ -1,24 +1,33 @@
-# README
+Enterprise Ape
+==============
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Powerful Software
+-----------------
 
-Things you may want to cover:
+### Welcome to the repository
 
-* Ruby version
+Feel free to access [my_portfolio](https://www.si-rob.com)
 
-* System dependencies
+> ## Bacon ipsum dolor amet bresaola cow andouille
+>
+> Burgdoggen bresaola filet mignon tri-tip tenderloin sirloin pancetta porchetta andouille short loin brisket rump shoulder strip steak corned beef. Sausage shank porchetta cupim pancetta chuck, venison frankfurter tenderloin meatball capicola. Landjaeger short loin salami jowl meatball bresaola, filet mignon beef sirloin biltong venison bacon corned beef. 
+>
+> Tongue spare ribs fatback, cow shank andouille filet *mignon*.
 
-* Configuration
+### Crazy good software
 
-* Database creation
+* Rapid Dev
++ Tested
+- 24/7 Support
 
-* Database initialization
+### Reasons to choose us
 
-* How to run the test suite
+1. Price
+2. Precision
+3. Performance
 
-* Services (job queues, cache servers, search engines, etc.)
+This is what ruby code would look like `puts 'Hello World'`
 
-* Deployment instructions
-
-* ...
+```
+MORE CODE HERE
+```
