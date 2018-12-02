@@ -40,6 +40,13 @@
       </div>
     </div>
 
+    <div class="control-group">
+      <%= form.label "Status", class: 'control-label' %>
+      <div class="controls">
+        <%= form.select(:status_type, options_for_select([['PAID', 'PAID'], ['PENDING', 'PENDING']]), {include_blank: true}) %>
+      </div>
+    </div>
+
     <div class="actions">
       <div class="controls">
         <%= form.submit %>
